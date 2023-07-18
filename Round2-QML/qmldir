@@ -1,0 +1,5 @@
+module Round2-QML
+typeinfo appRound2-QML.qmltypes
+prefer :/Round2-QML/
+Main 1.0 Main.qml
+
